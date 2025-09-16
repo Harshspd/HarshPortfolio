@@ -5,7 +5,8 @@
     "image": "aicareerguider",
     "category": "javascript",
     "links": {
-      "code": "https://github.com/Harshspd/aicareerguider"
+      "code": "https://github.com/Harshspd/aicareerguider",
+      "view" : "https://github.com/Harshspd/aicareerguider"
     }
   },
   {
@@ -14,7 +15,8 @@
     "image": "tms",
     "category": "mernstack",
     "links": {
-      "code": "https://github.com/Harshspd/Transport-Management-System"
+      "code": "https://github.com/Harshspd/Transport-Management-System",
+      "view" :"https://github.com/Harshspd/Transport-Management-System"
     }
   },
   {
@@ -23,7 +25,8 @@
     "image": "weatherapphtml",
     "category": "html",
     "links": {
-      "code": "https://github.com/Harshspd/Weather-APP"
+      "code": "https://github.com/Harshspd/Weather-APP",
+      "view" :"https://github.com/Harshspd/Weather-APP"
     }
   },
 
@@ -33,7 +36,8 @@
     "image": "aichatcombo",
     "category": "javascript",
     "links": {
-      "code": "https://github.com/Harshspd/AI-chatcombo"
+      "code": "https://github.com/Harshspd/AI-chatcombo",
+      "view" : "https://github.com/Harshspd/AI-chatcombo"
     }
   },
     
@@ -43,7 +47,9 @@
     "image": "sigmagpt",
     "category": "javascript",
     "links": {
-      "code": "https://github.com/Harshspd/SigmaGPT"
+      "code": "https://github.com/Harshspd/SigmaGPT",
+       "view": "https://github.com/Harshspd/SigmaGPT"
+
     }
   },
  
@@ -54,7 +60,8 @@
     "image": "aicareercoach",
     "category": "javascript",
     "links": {
-      "code": "https://github.com/Harshspd/AI-Career-Coach"
+      "code": "https://github.com/Harshspd/AI-Career-Coach",
+      "view" :"https://github.com/Harshspd/AI-Career-Coach"
     }
   },
    {
@@ -63,7 +70,8 @@
     "image": "weatherapp",
     "category": "javascript",
     "links": {
-      "code": "https://github.com/Harshspd/WeatherAPP"
+      "code": "https://github.com/Harshspd/WeatherAPP",
+      "view" : "https://github.com/Harshspd/WeatherAPP"
     }
   }
   
